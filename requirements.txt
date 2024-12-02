@@ -1,0 +1,8 @@
+matplotlib==3.7.0
+numpy==1.25.0
+pandas==1.4.1
+scipy==1.13.1
+seaborn==0.13.0
+StrawberryFields==0.23.0
+thewalrus==0.20.0
+matplotlib==3.8.1
